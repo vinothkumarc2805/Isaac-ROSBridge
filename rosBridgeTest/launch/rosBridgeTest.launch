@@ -1,0 +1,6 @@
+<launch>
+  <node name="rosBridgeTest" pkg="rosBridgeTest" type="rosBridgeTest" output="screen"/>
+
+</launch>
+
+
